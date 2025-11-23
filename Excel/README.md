@@ -4,6 +4,8 @@ This project is an interactive Excel dashboard built to analyze e-commerce sales
 It uses PivotTables, Slicers, Charts and KPI Cards to provide actionable business insights.
 
 ![Dashboard](dashboard.png)
+
+
 🔧 Tools & Techniques Used
 
 Microsoft Excel
