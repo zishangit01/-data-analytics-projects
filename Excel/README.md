@@ -3,8 +3,7 @@
 This project is an interactive Excel dashboard built to analyze e-commerce sales performance across regions, categories, customer segments, and time periods.
 It uses PivotTables, Slicers, Charts and KPI Cards to provide actionable business insights.
 
-📸 Dashboard Preview
-
+![Dashboard](dashboard.png)
 🔧 Tools & Techniques Used
 
 Microsoft Excel
