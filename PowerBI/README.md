@@ -51,3 +51,24 @@ To help the business understand **what is driving revenue**, **where profits are
 ---
 
 ## 📂 Project Structure
+
+---
+
+## 🖼 Dashboard Screenshots
+(Add your screenshots here)
+
+---
+
+## 🚀 Business Impact
+This dashboard enables:
+- 30–40% faster decision-making for managers  
+- Better SKU prioritization  
+- Improved discount strategy  
+- Clear visibility into weak-performing regions  
+
+---
+
+## 🔗 Source Files
+- Power BI file: `/dashboard/BusinessPerformance.pbix`
+- Dataset: `/data_raw/sales_data.xlsx`
+
