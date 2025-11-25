@@ -55,7 +55,7 @@ To help the business understand **what is driving revenue**, **where profits are
 ---
 
 ## 🖼 Dashboard Screenshots
-(Add your screenshots here)
+![Dashboard](dashboard.png)
 
 ---
 
