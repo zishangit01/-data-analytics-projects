@@ -75,9 +75,4 @@ Ecommerce-Sales-Overview/
 │── Ecommerce Dashboard.xlsx
 │── dashboard.png
 └── README.md
----
 
-## 📬 Contact  
-👤 **Created by:** *Zishan Alam – Data Analyst (Excel | Power BI | SQL | Python)*  
-📧 **Email:** zishanalam****@gmail.com  
-🔗 **LinkedIn:** [Zishan Alam](https://www.linkedin.com/in/zishan-alam-/)
