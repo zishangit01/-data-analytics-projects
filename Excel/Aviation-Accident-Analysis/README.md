@@ -87,6 +87,11 @@ This dashboard helps aviation stakeholders:
 
 ---
 
-## 📄 Resume Summary  
-**“Built an Excel-based Aviation Accident Dashboard analyzing 88k+ incidents to uncover high-risk flight phases, accident-prone airports, and injury trends, supporting aviation safety insights.”**
+---
+
+✨ *Created by Zishan Alam – Data Analyst (Excel | Power BI | SQL | Python)*  
+📧 zishanalam****@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/zishan-alam-/)
+
+
 
