@@ -68,7 +68,17 @@ Orders delivered via **Same Day** and **First Class** shipping yield higher prof
 </p>
 
 ---
+🚀 Project Impact
 
+Identified top revenue-generating regions
+
+Highlighted high vs low performing product categories
+
+Supported inventory optimization through monthly trend analysis
+
+Provided clarity on profit drivers like shipping modes and customer segmentation
+
+Enabled data-driven sales & marketing decisions
 ## 📂 Folder Structure  
 
 ```txt
