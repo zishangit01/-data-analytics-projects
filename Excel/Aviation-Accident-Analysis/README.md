@@ -61,15 +61,14 @@ Over **441,000 individuals** recorded *no injuries*, indicating strong safety im
 ---
 
 ## 📈 Dashboard Preview  
-dashboard.png
-
+![Dashboard](dashboard.png)
 
 ---
 
 ## 📂 Folder Structure  
 
 
----
+
 Aviation-Accident-Analysis/
 │── Aviation_Dashboard.xlsx
 │── README.md
