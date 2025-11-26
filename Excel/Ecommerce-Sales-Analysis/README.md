@@ -81,8 +81,17 @@ Ecommerce-Sales-Overview/
 
 ---
 
-✨ *Created by Zishan Alam – Data Analyst (Excel | Power BI | SQL | Python)*  
-📧 zishanalam****@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/zishan-alam-/)
 
+---
+
+### ✅ **Step 2 — Proper Contact Section (OUTSIDE code block)**  
+(This will render perfectly & look professional.)
+
+```markdown
+---
+
+## 📬 Contact  
+🌟 *Created by **Zishan Alam** – Data Analyst (Excel | Power BI | SQL | Python)*  
+📧 **Email:** zishanalam****@gmail.com  
+🔗 **LinkedIn:** [Zishan Alam](https://www.linkedin.com/in/zishan-alam-/)
 
