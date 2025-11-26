@@ -70,17 +70,13 @@ Orders delivered via **First Class & Same Day shipping** show higher margins, in
 
 ---
 
-## 📂 Folder Structure
+## 📂 Folder Structure  
 
 ```txt
 Ecommerce-Sales-Overview/
 │── Ecommerce Dashboard.xlsx
 │── dashboard.png
 └── README.md
-
-
----
-
 
 ---
 
@@ -94,4 +90,3 @@ Ecommerce-Sales-Overview/
 🌟 *Created by **Zishan Alam** – Data Analyst (Excel | Power BI | SQL | Python)*  
 📧 **Email:** zishanalam****@gmail.com  
 🔗 **LinkedIn:** [Zishan Alam](https://www.linkedin.com/in/zishan-alam-/)
-
