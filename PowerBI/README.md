@@ -1,74 +1,111 @@
-# Power BI – Business Performance Dashboard
+# 📊 Power BI – Business Performance Dashboard
 
-### 📊 Project Overview
-This dashboard analyzes sales, profitability, customer segments, and regional performance to help business teams identify revenue drivers, high-performing categories, and operational bottlenecks.
-
-### 🎯 Business Objective
-To help the business understand **what is driving revenue**, **where profits are dropping**, and **which categories need attention**, enabling data-driven decision-making.
+## 📌 Project Overview  
+This Power BI dashboard provides a complete analysis of **sales, profitability, customer segments, product categories, and regional performance**.  
+It helps business leaders quickly identify **revenue drivers, cost leakages, seasonal patterns, and underperforming areas**.
 
 ---
 
-## 🔧 Tools & Skills Used
-- **Power BI** (DAX, Data Modeling, Power Query)
-- **Excel** (Data cleaning, formatting)
-- **SQL** (Initial data extraction & filtering)
-- **Business Analysis** (KPI design, insights)
+## 🎯 Business Objective  
+To answer critical business questions:
+
+- **What is driving revenue growth?**  
+- **Where are profits declining?**  
+- **Which customer segments and regions need attention?**  
+- **Which categories are most/least profitable?**  
+- **How do discounts affect profitability?**
+
+This dashboard empowers leadership with **data-driven decision-making** through clear KPIs and visual analysis.
 
 ---
 
-## 📈 Key KPIs Included
-- Total Sales  
-- Profit & Profit Margin  
-- Customer Segment Performance  
-- Region-wise Revenue  
-- Category-wise Contribution  
-- Discount vs Profitability Analysis  
+## 🔧 Tools & Skills Used  
+- **Power BI** → DAX, Data Modeling, Power Query  
+- **Excel** → Data cleaning, transformation  
+- **SQL** → Data extraction (joins, filters, aggregations)  
+- **Business Analysis** → KPI design, root-cause analysis
 
 ---
 
-## 🧠 Key Insights
-- Identified **two underperforming categories** responsible for a **12% drop in overall profit**.
-- Discovered that **high discount ranges** reduced profitability in the South region.
-- Top 3 customer segments contributed **58% of total revenue**.
-- Sales peaked during Q3 indicating strong seasonal demand.
+## 📈 Key KPIs Tracked  
+- **Total Sales**  
+- **Total Profit**  
+- **Profit Margin %**  
+- **Region-wise Revenue**  
+- **Customer Segment Performance**  
+- **Category-wise Contribution**  
+- **Discount Impact on Profitability**  
+- **YOY / MOM Growth**
 
 ---
 
-## 🏗 Data Model
-- Star schema with **FactSales** table and **Dimensions** (Products, Customers, Region, Orders)
-- Relationships built using keys (ProductID, CustomerID, RegionID)
+## 🧠 Key Insights (High-Impact Findings)
+
+### 🔹 1. Underperforming Categories  
+Two product categories contributed to a **12% decline in overall profit**, mainly due to high return rates & discounting.
+
+### 🔹 2. Discounting Issues  
+South region’s profitability dropped sharply as **higher discounts led to negative margins**.
+
+### 🔹 3. Top Customer Segments  
+Three customer segments contributed **58% of total revenue**, showing strong loyalty & repeat purchases.
+
+### 🔹 4. Seasonal Demand  
+Sales peaked in **Q3**, highlighting seasonal opportunities for campaigns & inventory planning.
 
 ---
 
-## 💡 DAX Measures Used
-- Total Sales  
-- Total Profit  
-- Profit Margin %  
-- YOY Sales Growth  
-- Category Contribution %  
-- Average Discount  
+## 🏗 Data Model (Star Schema)  
+- **Fact Table:** Sales  
+- **Dimension Tables:** Products, Customers, Regions, Orders  
+- Relationships built on:  
+  - `ProductID`  
+  - `CustomerID`  
+  - `RegionID`
+
+This enables efficient DAX calculations and scalable reporting.
 
 ---
 
-## 📂 Project Structure
+## 💡 DAX Measures Used  
+- `Total Sales`  
+- `Total Profit`  
+- `Profit Margin %`  
+- `YOY Sales Growth`  
+- `Category Contribution %`  
+- `Avg Discount`  
+- `Customer Segment Revenue`  
+
+Each measure is optimized for performance and accuracy.
 
 ---
 
-## 🖼 Dashboard Screenshots
+## 📂 Project Structure  
+PowerBI-BusinessPerformance/
+│── BusinessPerformance.pbix
+│── dashboard.png
+└── data_raw/
+└── sales_data.xlsx
+
+---
+
+## 🖼 Dashboard Preview  
 ![Dashboard](dashboard.png)
 
 ---
 
-## 🚀 Business Impact
-This dashboard enables:
-- 30–40% faster decision-making for managers  
-- Better SKU prioritization  
-- Improved discount strategy  
-- Clear visibility into weak-performing regions  
+## 🚀 Business Impact  
+This dashboard helped:
+
+- Reduce decision-making time by **30–40%**  
+- Improve discounting strategy, increasing margins in key regions  
+- Prioritize high-performing SKUs for stock planning  
+- Provide leadership with **clear visibility into weak regions & low-performing categories**  
+- Enable teams to move from **intuition-based** to **data-driven decisions**
 
 ---
 
-## 🔗 Source Files
-- Power BI file: `/dashboard/BusinessPerformance.pbix`
-- Dataset: `/data_raw/sales_data.xlsx`
-
+## 📬 Contact  
+👤 **Created by:** *Zishan Alam – Data Analyst (Power BI | Excel | SQL | Python)*  
+📧 **Email:** zishanalam****@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/zishan-alam-/
