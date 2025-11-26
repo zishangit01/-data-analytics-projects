@@ -66,10 +66,14 @@ Over **441,000 individuals** recorded *no injuries*, indicating strong safety im
 ---
 
 ## 📂 Folder Structure  
+
+```txt
 Aviation-Accident-Analysis/
 │── Aviation_Dashboard.xlsx
 │── README.md
 └── dashboard.png
+```
+
 
 
 ## 🚀 Project Impact  
