@@ -81,11 +81,15 @@ Each measure is optimized for performance and accuracy.
 ---
 
 ## 📂 Project Structure  
+
+```txt
 PowerBI-BusinessPerformance/
 │── BusinessPerformance.pbix
 │── dashboard.png
 └── data_raw/
-└── sales_data.xlsx
+      └── sales_data.xlsx
+```
+
 
 ---
 
