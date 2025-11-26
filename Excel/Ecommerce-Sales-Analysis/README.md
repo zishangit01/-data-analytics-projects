@@ -1,21 +1,21 @@
 # 🛒 E-Commerce Sales Dashboard (Excel)
 
 ## 📌 Project Overview  
-This project is an interactive Excel dashboard designed to analyze **e-commerce sales performance** across customer segments, product categories, regions, and order types.  
-It enables businesses to monitor growth, identify profit drivers, and make data-driven decisions using PivotTables, Slicers, Charts, and KPI Cards.
+This project is an interactive Excel dashboard designed to analyze **e-commerce sales performance** across customer segments, product categories, regions, and time periods.  
+It provides business teams with actionable insights using PivotTables, PivotCharts, Slicers, and KPI Cards.
 
 ---
 
 ## 🎯 Business Problem  
-E-commerce businesses need to understand:
+E-commerce businesses need insights to answer:
 
-- Which regions generate the highest revenue  
-- Which product categories perform well or underperform  
-- Which customer segments contribute most to profit  
-- Monthly sales trends & seasonality  
-- Order states affecting performance  
+- Which regions generate the highest revenue?  
+- Which product categories perform well or underperform?  
+- Which customer segments drive the most profit?  
+- How do monthly sales trends behave?  
+- How do shipping modes & order statuses impact performance?  
 
-This dashboard helps optimize marketing, forecasting, pricing, and inventory planning.
+This dashboard helps improve sales strategy, forecasting, and decision-making.
 
 ---
 
@@ -23,10 +23,10 @@ This dashboard helps optimize marketing, forecasting, pricing, and inventory pla
 - Microsoft Excel  
 - PivotTables  
 - PivotCharts  
-- Slicers (Filter Panel)  
 - Data Cleaning  
+- Slicers (Filter Panel)  
 - KPI Cards  
-- Dashboard Visualization  
+- Dashboard Formatting  
 
 ---
 
@@ -36,33 +36,31 @@ This dashboard helps optimize marketing, forecasting, pricing, and inventory pla
 - **Total Order Quantity:** 2,84,209  
 - **Average Profit Margin:** 10.86%  
 
-These KPIs give a clear picture of business health and sales performance.
-
 ---
 
 ## 🔍 Business Insights  
 
 ### 1️⃣ Consumer Segment Drives Maximum Sales  
-The **Consumer** segment contributed the highest revenue, making it the primary customer group for business targeting.
+The **Consumer** segment generates the majority of revenue, making it the most important customer category.
 
-### 2️⃣ USA, Europe & APAC Are the Most Profitable Regions  
-Regional analysis shows strong sales concentration in **North America, Europe, and APAC**, guiding regional marketing and fulfillment strategies.
+### 2️⃣ USA, Europe & APAC Are Top-Performing Regions  
+Most sales come from **North America**, followed by **Europe** and **APAC**, guiding targeted regional strategies.
 
-### 3️⃣ Stable Monthly Sales Trend With Seasonal Peaks  
-Sales remain consistent across months with slight seasonal peaks, helping forecast inventory and promotional planning.
+### 3️⃣ Consistent Monthly Sales Trend  
+Sales remain stable throughout the year with seasonal peaks—useful for forecasting and inventory planning.
 
-### 4️⃣ Technology & Office Supplies Are Top Categories  
-These categories generate the highest revenue, indicating strong demand from corporate & work-from-home customers.
+### 4️⃣ Technology & Office Supplies Are Best-Selling Categories  
+These categories deliver high sales volume, indicating strong market demand.
 
 ### 5️⃣ Baby, Clothing & Video Games Underperform  
-Bottom-line categories faced low demand, indicating the need for better promotions or product rationalization.
+Low-performing categories indicate low demand or require better marketing focus.
 
-### 6️⃣ Premium Shipping Modes Increase Profit Margins  
-Orders delivered via **First Class & Same Day shipping** show higher margins, indicating customers are willing to pay more for faster delivery.
+### 6️⃣ Premium Shipping Modes Increase Profitability  
+First Class & Same Day orders contribute to higher profit margins, showing customer preference for fast delivery.
 
 ---
 
-## 📈 Dashboard Preview
+## 📈 Dashboard Preview  
 
 <p align="center">
   <img src="dashboard.png" alt="Ecommerce Dashboard" width="850">
@@ -78,15 +76,9 @@ Ecommerce-Sales-Overview/
 │── dashboard.png
 └── README.md
 
----
 
-### ✅ **Step 2 — Proper Contact Section (OUTSIDE code block)**  
-(This will render perfectly & look professional.)
+📬 Contact
 
-```markdown
----
-
-## 📬 Contact  
-🌟 *Created by **Zishan Alam** – Data Analyst (Excel | Power BI | SQL | Python)*  
-📧 **Email:** zishanalam****@gmail.com  
-🔗 **LinkedIn:** [Zishan Alam](https://www.linkedin.com/in/zishan-alam-/)
+🌟 Created by Zishan Alam – Data Analyst (Excel | Power BI | SQL | Python)
+📧 Email: zishanalam****@gmail.com
+🔗 LinkedIn: Zishan Alam
